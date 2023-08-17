@@ -19,3 +19,5 @@ diagnosis and treatment.
 **Keywords**: Colorectal cancer, Deep learning, Machine learning, Artificial intelligence,
 Histopathology, Medical imaging, Cancer diagnosis, Cancer classification, Convolutional
 neural networks.
+
+![Colorectal Cancer]([http://url/to/img.png](https://github.com/belhaddadmohamed/Colorectal-Deep-Learning/blob/master/Colorectal-Cancer-Github.jpg)https://github.com/belhaddadmohamed/Colorectal-Deep-Learning/blob/master/Colorectal-Cancer-Github.jpg)
