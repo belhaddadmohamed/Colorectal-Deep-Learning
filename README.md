@@ -2,7 +2,7 @@
 ### **Deep learning models for colorectal cancer detection and classification**
 #### `Belhaddad mohamed islem`
 
-**`Abstract`**  
+**Abstract:**  
 Colorectal cancer is a leading cause of cancer-related deaths worldwide, and early detection
 is crucial for improving patient outcomes. In recent years, deep learning has emerged
 as a promising approach for automated cancer detection and classification. In this thesis,
@@ -15,6 +15,7 @@ achieved in some cases. We also discuss the limitations and challenges of using 
 learning for cancer detection and provide recommendations for future research. Overall,
 our study highlights the potential of deep learning as a powerful tool for improving cancer
 diagnosis and treatment.  
-**`Keywords`**: Colorectal cancer, Deep learning, Machine learning, Artificial intelligence,
+
+**Keywords**: Colorectal cancer, Deep learning, Machine learning, Artificial intelligence,
 Histopathology, Medical imaging, Cancer diagnosis, Cancer classification, Convolutional
 neural networks.
