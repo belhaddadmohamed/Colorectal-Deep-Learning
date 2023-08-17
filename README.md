@@ -21,3 +21,5 @@ Histopathology, Medical imaging, Cancer diagnosis, Cancer classification, Convol
 neural networks.
 
 ![Colorectal Cancer](http://url/to/img.png)
+
+![image](https://github.com/belhaddadmohamed/Colorectal-Deep-Learning/assets/115036033/ac154070-2467-4f4d-a589-b43e71a9bcb1)
