@@ -1,6 +1,6 @@
 # Colorectal-Deep-Learning
-Deep learning models for colorectal cancer detection and classification
-### `Belhaddad mohamed islem`
+### **Deep learning models for colorectal cancer detection and classification**
+#### `Belhaddad mohamed islem`
 
 **Abstract**
 Colorectal cancer is a leading cause of cancer-related deaths worldwide, and early detection
